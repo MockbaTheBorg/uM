@@ -1,2 +1,2 @@
 # uM
-M based monitor for micro controllers
+M based monitor for micro controllers project
